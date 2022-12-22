@@ -8,9 +8,8 @@ MSX S端子増設基板 MSX S-Terminal Extension Board
 - Panasonic機はシールド板へのソケットの接着が必要です
 - サポートはありません
 
-★完成図写真追加
-
 ![S-last-cab](https://user-images.githubusercontent.com/102343209/205786391-7571161e-27c7-444e-a278-ee429255a33b.jpg)
+![S-main-f3](https://user-images.githubusercontent.com/102343209/209244852-fddb8850-8166-4e45-ad9e-9cce3b0ee8dd.JPG)
 
 ## 対象機種
 - 映像音声出力にHIC-1基板を使用するMSX2/MSX2+機
@@ -75,7 +74,7 @@ MSX S端子増設基板 MSX S-Terminal Extension Board
 
 - 増設基板を取り付けます
 
-★写真追加
+![S-main-f](https://user-images.githubusercontent.com/102343209/209244899-5bca9517-6270-425d-ba74-99f147026af0.JPG)
 ![S-main-b](https://user-images.githubusercontent.com/102343209/205787191-8a6a1854-874a-41ac-a236-6d5fedfb0bf7.JPG)
 
 - 映像音声子基板 HIC-1 に長い方の配線を接続します
@@ -90,7 +89,8 @@ MSX S端子増設基板 MSX S-Terminal Extension Board
 - 増設基板のピンソケットにピンヘッダを差し込みます
   - 左が赤になります
 
-★写真追加
+![S-main-f2](https://user-images.githubusercontent.com/102343209/209244930-282a0978-6d8f-4d21-8071-3200e287251a.JPG)
+
 
 - ケースとシールドの加工
   - ミニDINコネクタが通るようにRF出力の穴をリーマー、やすりなどで拡げます
