@@ -123,13 +123,45 @@ MSX S端子増設基板 MSX S-Terminal Extension Board
 
 
 ## 組立方法 Panasonic機
-- キットの組み立てはSony機と同様です
+- キットの組み立て、ミニDINコネクタの組み立てはSony機と同様です
 
-- ミニDINコネクタに短い方のケーブルを取り付けます
-  - Panasonic用
+- 本体基板からRF出力ユニットを取り外します
+  - GND、信号3本 のハンダを吸って取り外します
 
-![P-din1](https://user-images.githubusercontent.com/102343209/205781163-7aa3390a-0d64-44dd-8f86-f9a003855478.JPG)
-![P-din2](https://user-images.githubusercontent.com/102343209/205781178-d95e2f96-4709-438e-a228-143051452378.JPG)
-![P-din3](https://user-images.githubusercontent.com/102343209/205781184-cb2d73dd-6385-4cd1-a3b8-1fddbce3363e.JPG)
+![Pana-S-rf-f](Pictures/Pana-S-rf-f.JPG)
+![Pana-S-rf-b](Pictures/Pana-S-rf-b.JPG)
 
-- 以下続く
+- 増設基板を取り付けます
+
+![Pana-S-main-f](Pictures/Pana-S-main-f.JPG)
+![Pana-S-main-b](Pictures/Pana-S-main-b.JPG)
+
+- RF出力ユニットの取付け穴3箇所に長い方の配線ケーブルを通します
+
+![Pana-S-main-f2](Pictures/Pana-S-main-f2.JPG)
+
+- 基板背面のIC`CXA1145`の付近3箇所に配線を接続します
+  - 緑: `C110`の下側
+  - 黄（写真 茶）:`R37`の下側
+  - 赤: `C24`の右側
+
+![Pana-S-main-b2](Pictures/Pana-S-main-b2.JPG)
+
+- 増設基板のピンソケットにピンヘッダを差し込みます
+  - 左が赤になります
+
+![Pana-S-main-f3](Pictures/Pana-S-main-f3.JPG)
+
+- シールドにミニDINコネクタをホットボンド等で固定します
+
+![Pana-S-shield](Pictures/Pana-S-shield.JPG)
+![Pana-S-shield2](Pictures/Pana-S-shield2.JPG)
+
+- 本体基板にシールドを取り付けてDINコネクタからのピンヘッダをソケットに差し込みます
+  - 左が黒になります
+
+![Pana-S-main-f3](Pictures/Pana-S-main-f3.JPG)
+
+- 完成！
+
+![Pana-S-last-cab](Pictures/Pana-S-last-cab.JPG)
